@@ -1,4 +1,4 @@
-Hello! Thanks for checking out my profile. I'm Lerbiq and I make shitty discord bots and minecraft plugins 🙂
+Hello! Thanks for checking out my profile. I'm Lerbiq and I make bad discord bots and minecraft plugins, focusing mainly on patching exploits 🙂
 
 ![Lerbiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lerbiq&show_icons=true&theme=radical)
 
